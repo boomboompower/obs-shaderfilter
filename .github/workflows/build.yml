@@ -10,6 +10,7 @@ on:
 env:
   PLUGIN_NAME: obs-shaderfilter
   OBS_VERSION: 27.2.4
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
 jobs:
   windows:
