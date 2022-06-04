@@ -1,4 +1,4 @@
-// Version 1.21 by Charles Fettinger https://github.com/Oncorporation/obs-shaderfilter
+// Version 1.22 by Charles Fettinger https://github.com/Oncorporation/obs-shaderfilter
 // original version by nleseul https://github.com/nleseul/obs-shaderfilter
 #include <obs-module.h>
 #include <graphics/graphics.h>
